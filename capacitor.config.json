@@ -1,0 +1,6 @@
+{
+  "appId": "com.junayed.openworld",
+  "appName": "Open World 3D",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
